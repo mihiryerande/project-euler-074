@@ -1,4 +1,7 @@
-# Project Euler - Problem 74 - Digit Factorial Chains
+# Project Euler
+
+## Problem 74 - Digit Factorial Chains
+
 The number `145` is well known for the property that the sum of the factorial of its digits is equal to `145`:
 
     1! + 4! + 5! = 1 + 24 + 120 = 145
