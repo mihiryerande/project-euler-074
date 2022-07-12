@@ -22,7 +22,7 @@
 #
 #     How many chains, with a starting number below one million, contain exactly sixty non-repeating terms?
 
-def main(n):
+def main(n: int) -> int:
     """
     Returns the number of digit-factorial-chains with a starting number below `n` having exactly 60 distinct terms.
 
